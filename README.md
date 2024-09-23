@@ -1,4 +1,4 @@
-[https://github.com/AsemAlhaidary/hexo-generator-readtime](https://github.com/AsemAlhaidary/hexo-generator-readtime) 의 fork 버전으로 한국어 번역 일부 수정 및 전역 언어 설정 버그 수정 
+[https://github.com/AsemAlhaidary/hexo-generator-readtime](https://github.com/AsemAlhaidary/hexo-generator-readtime) 의 fork 버전으로 한국어 번역 일부 수정 및 전역 언어 설정 버그 수정  
 (node 22 및 npm 10 기준)
 
 # hexo-generator-readtime
