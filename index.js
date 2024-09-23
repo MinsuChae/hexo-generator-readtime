@@ -32,7 +32,7 @@ let readTime_init = function (post) {
     hexo.log.debug(`ReadTime scanning:  ${post.source}`);
 
     // check language defaults
-    let lang = post.lang || hexo.config.language[0] || 'en'; //ISO-639-1 code
+    let lang = post.lang || hexo.config.language || 'en'; //ISO-639-1 code
 
     // use `_config.yml` readTime setting if defined. Otherwise, plugin defaults.
     if (typeof hexo.config.readTime == "object") {
